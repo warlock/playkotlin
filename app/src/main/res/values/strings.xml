@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mascotic</string>
+    <string name="message">Text Inicial</string>
+    <string name="clickme">Clickme!</string>
+</resources>
